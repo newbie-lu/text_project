@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="55px" viewBox="0 0 54 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>54*54</title>
+    <defs>
+        <polygon id="path-1" points="0 0 54 0 54 54 0 54"></polygon>
+    </defs>
+    <g id="ETC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="54*54" transform="translate(0.000000, 0.422900)">
+            <g id="编组">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M54,27 C54,41.9115887 41.9118511,54.0000191 26.9999809,54.0000191 C12.088206,54.0000191 -3.81056147e-05,41.9115887 -3.81056147e-05,27 C-3.81056147e-05,12.0881446 12.088206,0 26.9999809,0 C41.9118511,0 54,12.0881446 54,27" id="Fill-1" fill="#56B963" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-3" fill="#FFFFFF" points="37.3193331 25.2172735 27.048264 8.79082986 16.4806846 25.2172735 27.048264 19.432806"></polygon>
+            <polygon id="Fill-3备份" fill="#FFFFFF" transform="translate(26.900009, 37.092052) scale(1, -1) translate(-26.900009, -37.092052) " points="37.3193331 45.3052735 27.048264 28.8788299 16.4806846 45.3052735 27.048264 39.520806"></polygon>
+            <polygon id="Fill-7" fill="#FFFFFF" points="37.735367 27.0337136 27.0480872 21.393196 16.4805962 27.0337136 27.0480872 32.822804"></polygon>
+        </g>
+    </g>
+</svg>

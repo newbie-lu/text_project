@@ -1,0 +1,37 @@
+.mt_30{
+  margin-top: 30px;
+}
+
+.user_panel_box{
+  padding: 25px;
+  background: #fff;
+  box-shadow: 0 8px 14px 0 rgb(216 221 230 / 50%);
+  border-radius: 20px;
+  box-sizing: border-box;
+
+  h3{
+    font-size: 24px;
+    font-family: AlibabaPuHuiTi-Medium;
+    font-weight: bold;
+  }
+
+  h4{
+    font-size: 18px;
+    line-height: 24px;
+    color: rgba(0,0,0,.45);
+    font-family: AlibabaPuHuiTi-Medium;
+    font-weight: bold;
+  }
+
+  p{
+    color: #000;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0;
+
+    span{
+      color: rgba(0,0,0,.45);
+      font-size: 14px;
+    }
+  }
+}
